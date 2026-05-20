@@ -40,13 +40,12 @@ brute-force-detector-v2/
 
 ---
 
+## 👨‍💻 Author
+Frans De La Rosa  
+Cybersecurity / SOC Analyst Learning Project
+
 ## ▶️ How to Run
 
 ```bash
 python brute_force_detector.py
 
-## 👨‍💻 Author
-
-Built as part of a cybersecurity learning path...
-Francisco De La Rosa  
-Cybersecurity / SOC Analyst Learning Project
