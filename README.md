@@ -41,7 +41,8 @@ brute-force-detector-v2/
 ---
 
 ## 👨‍💻 Author
-Frans De La Rosa  
+Built as part of a cybersecurity learning path focusing on SOC analyst skills and Python automation.
+Francisco De La Rosa  
 Cybersecurity / SOC Analyst Learning Project
 
 ## ▶️ How to Run
